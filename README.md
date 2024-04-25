@@ -5,9 +5,9 @@
 
 ## Sobre mi :
 
-- 🏢 Actualmente trabajo como  **Data Analytics / Desarrollador de software **
-- 🎓 Estudie Tec. Superior en Desarrollo de Software
-- 🎓 Estudie Desarrollador Full Stacks UTN-B.A
+- 🏢 Actualmente trabajo como  **Data Analytics / Desarrollador de software**
+- 🎓 Estudios  **Tec. Superior en Desarrollo de Software**
+- 🎓 Estudios  **Desarrollador Full Stacks UTN-B.A**
 - 🏡'Vivo **Argentina,Buenos Aires**
 
 <br>
