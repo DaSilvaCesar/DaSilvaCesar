@@ -2,7 +2,7 @@
 
   
   
-  <h1 align="center">Heyy wasupp? I'm Sumanth 🤙<width="30px"></h1>
+  <h1 align="center">Hola Soy Cesar Da Silva🤙<width="30px"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Data+Enthusiastic;Programmer;ML+Enthusiastic;Web+Designer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
   
@@ -89,31 +89,6 @@ Here are some ideas to get you started:
 
  
   <br>
-  <br>
-  <br>
-  
-
-  
-  <a href="https://github.com/SumanthBajjuri07/android-app-market-on-Gplay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=android-app-market-on-Gplay&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/clear-date-predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=clear-date-predictor&theme=great-gatsby" />
-</a>
-
-  <a href="https://github.com/SumanthBajjuri07/project-football-matches">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=project-football-matches&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/investigating-the-netflix-movies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=investigating-the-netflix-movies&theme=great-gatsby" />
-</a>
-
-  <a href="https://github.com/SumanthBajjuri07/disney-movies-and-box-office-success">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/collab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
-</a>
   
   
  
