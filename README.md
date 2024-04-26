@@ -5,9 +5,9 @@
 
 ## Sobre mi :
 
-- 🏢 Actualmente trabajo como  **Data Analytics / Desarrollador de software** Para el Grupo Boldt y como Profecional Independiente
+- 🏢 Actualmente trabajo como  **Data Analytics / Desarrollador de software**
 - 🎓 Estudios  **Tec. Superior en Desarrollo de Software** Instituto Superior Tecnico N°204
-- 🎓 Estudios  **Desarrollador Full Stacks UTN-B.A**
+- 🎓 Estudios  **Programador Full Stacks** UTN-B.A
 - 🏡 Vivo **Argentina,Buenos Aires**
 
 <br>
