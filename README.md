@@ -25,7 +25,8 @@
 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="15" />
 
 <br>
   
