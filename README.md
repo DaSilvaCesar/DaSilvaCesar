@@ -21,7 +21,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  /> 
-<img width="15" /> <img src="https://github.com/DaSilvaCesar/DaSilvaCesar/assets/113476857/65081557-6f17-4c55-98ed-7f798918a494" />
+<img width="15" />
 
 
 
