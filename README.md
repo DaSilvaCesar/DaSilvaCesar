@@ -5,7 +5,7 @@
 
 ## Sobre mi :
 
-- 🏢 Actualmente trabajo como  **Data Analytics / Desarrollador de software**
+- 🏢 Actualmente trabajo como  **Help Desk - Data Analyst en Datacenter / Desarrollador de software**
 - 🎓 Estudios  **Tec. Superior en Desarrollo de Software** Instituto Superior Tecnico N°204
 - 🎓 Estudios  **Programador Full Stacks** UTN-B.A
 - 🏡 Vivo **Argentina,Buenos Aires**
